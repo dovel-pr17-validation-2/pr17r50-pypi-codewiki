@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "mermaid": "11.9.0",
-    "jsdom": "26.1.0"
+    "jsdom": "31.0.0"
   }
 }
